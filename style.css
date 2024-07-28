@@ -1,0 +1,21 @@
+*,
+::after,
+::before{
+    box-sizing: border-box;
+}
+.play-svg {
+height: 2rem;
+width:2rem;
+} 
+.forward-svg {
+    height: 2rem;
+    width:2rem;  
+}
+.back-svg{
+    height: 2rem;
+    width:2rem;  
+}
+.pause-svg {
+    height: 2rem;
+    width:2rem;
+    } 
